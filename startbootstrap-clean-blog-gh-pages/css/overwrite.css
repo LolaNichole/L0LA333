@@ -1,0 +1,56 @@
+
+
+
+
+
+
+
+
+p {
+    font-family:monospace; 
+    
+}
+
+h2 {
+    font-family: monospace;
+    color: lightpink;
+   
+}
+
+h1 {
+    font-family:cursive;
+    color: lightpink;
+}
+
+h3 {
+    font-family:cursive;
+}
+
+h5 {
+    font-family:monospace;
+}
+
+li {
+    font-family: monospace;
+}
+
+a {
+    font-family: monospace;
+}
+
+header {
+    background-image: url(https://lolamagazin.com/wp-content/uploads/2016/08/Amy-as-a-kid-24-Amy-Winehouse.jpg);
+    background-position: center center;
+    background-size: cover;
+      
+}
+
+h11 {
+    font-family: monospace;
+    font-size: small;
+}
+
+
+.edu {
+    font-weight: bold;
+}

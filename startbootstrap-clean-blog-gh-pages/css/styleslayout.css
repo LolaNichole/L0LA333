@@ -1,0 +1,38 @@
+
+h2 {
+    font-family: cursive; 
+    font-weight: bold;
+    color: lightpink;
+    text-decoration: underline;
+}
+
+li {
+    font-family: monospace;
+}
+
+a {
+    color: lightpink;
+}
+
+h1 {
+    font-family: cursive;
+}
+
+.homebg {
+    background-color:dimgrey;
+}
+
+h3 {
+    font-family: cursive;
+}
+
+p {
+    font-family:monospace;
+}
+
+
+
+
+
+
+
